@@ -61,7 +61,7 @@ private final int opTypeDelete = 4;
 		      Class.forName("com.mysql.jdbc.Driver");
 		     
 		      // Connect to your database using your credentials
-		      connect = DriverManager.getConnection("jdbc:mysql://BUSCISMYSQL01.busdom.colostate.edu:3306/team8db", "gangyang", "c611c!63557");
+		      connect = DriverManager.getConnection("jdbc:mysql://BUSCISMYSQL01.busdom.colostate.edu:3306/team8db", "*****", "*******");
 		      
 			JOptionPane.showMessageDialog(null, "Server Is Listening ON Port:  " + port + "\n");
 			
