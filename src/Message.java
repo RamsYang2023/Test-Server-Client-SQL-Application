@@ -1,5 +1,5 @@
 
-//add the class template
+//add the class template   Gang Yang
 
 import java.io.Serializable;
 import java.math.BigInteger;
