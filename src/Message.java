@@ -1,5 +1,5 @@
 
-//add the class template   Gang Yang
+//add the class template   Gang Yang for the practice. Success!
 
 import java.io.Serializable;
 import java.math.BigInteger;
